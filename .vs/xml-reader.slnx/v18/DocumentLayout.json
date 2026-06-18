@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|d:\\\u0433\u0443\u0430\u043F_\u0443\u0446\u0440\\net10\\_samples\\solution_xml-reader\\xml-reader\\xml-reader\\classes\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|solutionrelative:xml-reader\\classes\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|d:\\\u0433\u0443\u0430\u043F_\u0443\u0446\u0440\\net10\\_samples\\solution_xml-reader\\xml-reader\\xml-reader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|solutionrelative:xml-reader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|d:\\\u0433\u0443\u0430\u043F_\u0443\u0446\u0440\\net10\\_samples\\solution_xml-reader\\xml-reader\\xml-reader\\classes\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|solutionrelative:xml-reader\\classes\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|d:\\\u0433\u0443\u0430\u043F_\u0443\u0446\u0440\\net10\\_samples\\solution_xml-reader\\xml-reader\\xml-reader\\classes\\groupinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|solutionrelative:xml-reader\\classes\\groupinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|d:\\\u0433\u0443\u0430\u043F_\u0443\u0446\u0440\\net10\\_samples\\solution_xml-reader\\xml-reader\\xml-reader\\classes\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C70821-2B3D-FD30-5F7C-79C45E198195}|xml-reader\\xml-reader.csproj|solutionrelative:xml-reader\\classes\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\Schedule.cs",
+              "RelativeDocumentMoniker": "xml-reader\\classes\\Schedule.cs",
+              "ToolTip": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\Schedule.cs",
+              "RelativeToolTip": "xml-reader\\classes\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:09:59.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupInfo.cs",
+              "DocumentMoniker": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\GroupInfo.cs",
+              "RelativeDocumentMoniker": "xml-reader\\classes\\GroupInfo.cs",
+              "ToolTip": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\GroupInfo.cs",
+              "RelativeToolTip": "xml-reader\\classes\\GroupInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:09:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\Teacher.cs",
+              "RelativeDocumentMoniker": "xml-reader\\classes\\Teacher.cs",
+              "ToolTip": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\Teacher.cs",
+              "RelativeToolTip": "xml-reader\\classes\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:08:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Object.cs",
+              "DocumentMoniker": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\Object.cs",
+              "RelativeDocumentMoniker": "xml-reader\\classes\\Object.cs",
+              "ToolTip": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\classes\\Object.cs",
+              "RelativeToolTip": "xml-reader\\classes\\Object.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:45:01.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\Program.cs",
+              "RelativeDocumentMoniker": "xml-reader\\Program.cs",
+              "ToolTip": "D:\\\u0413\u0423\u0410\u041F_\u0423\u0426\u0420\\NET10\\_Samples\\Solution_xml-reader\\xml-reader\\xml-reader\\Program.cs",
+              "RelativeToolTip": "xml-reader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:34:37.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
